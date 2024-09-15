@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aman9867
+- 👋 Hi, I’m @Aman
 - 👀 I’m interested in APP and WEB development 
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Cornor tech
