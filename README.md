@@ -18,9 +18,9 @@
 
 ## 📊 GitHub Stats
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman9867&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Aman9867&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman9867&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman9867&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak
 
